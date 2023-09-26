@@ -174,7 +174,18 @@ body{
     padding: 6px 18px;
 }
 
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 10px 20px;
+}
+
 button:hover{
     background-color: #1c417b;
+}
+
+.links p:hover{
+    color: #3882F6;
 }
 
